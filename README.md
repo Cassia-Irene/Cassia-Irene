@@ -25,9 +25,7 @@
 
 <br>
 
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A3FF"  />
-</div>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
 
 <br>
 
@@ -79,9 +77,7 @@
 
 <br>
 
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A3FF"  />
-</div>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
 
 <br>
 
@@ -97,9 +93,7 @@
   <br>*WeNove is a marketplace that promotes circular fashion and conscious consumption by connecting consumers, brands, and small entrepreneurs.*</p>
   *Key learning: API integration, responsive design.*
 
-  <div>
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FFBB1B"  />
-  </div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=FFBB1B" />
 
   <br>
 
@@ -109,9 +103,7 @@
   <br>*A simple and responsive user registration project with validation, login, localStorage handling, and user info management.*</p>
   *Key learning: form validation and state management.*
 
-  <div>
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FFBB1B"  />
-  </div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=FFBB1B" />
 
   <br>
 
@@ -120,9 +112,7 @@
   <br>*A console-based Java currency converter using the ExchangeRate API, with multiple currencies, input validation, and error handling.*</p>
   *Key learning: API handling and error management.*
 
-  <div>
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A3FF"  />
-  </div>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
 
   <br>
 
@@ -149,9 +139,7 @@
 
 <br>
 
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A3FF"  />
-</div>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
 
 <br>
 
