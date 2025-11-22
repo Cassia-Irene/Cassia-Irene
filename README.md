@@ -8,7 +8,7 @@
 
 <br>
 
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A3FF"  />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&color=00A3FF" />
 
 <br>
 
