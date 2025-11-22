@@ -8,9 +8,7 @@
 
 <br>
 
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A3FF"  />
-</div>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=0.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A3FF"  />
 
 <br>
 
@@ -135,18 +133,18 @@
 <div align="center">
   <img style="margin-right: 2px;" 
     src="https://github-readme-stats.vercel.app/api?username=Cassia-Irene&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&order=1" 
-    height="180" 
+    height="160" 
     alt="stats graph" />
  &nbsp;
   <img src="https://streak-stats.demolab.com?user=Cassia-Irene&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=5&order=3" 
-    height="180" 
+    height="160" 
     alt="streak graph"  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cassia-Irene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cassia-Irene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 <br>
