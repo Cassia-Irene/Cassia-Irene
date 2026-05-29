@@ -1,64 +1,74 @@
 <div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&section=header&reversal=false&text=%F0%9F%91%8B%20Hi,%20I'm%20C%C3%A1ssia%20Irene!&fontSize=40&fontColor=FFBB1B&fontAlign=50&fontAlignY=55&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=00171F"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&section=header&reversal=false&text=%F0%9F%91%8B%20Hi,%20I'm%20C%C3%A1ssia%20Irene!&fontSize=40&fontColor=F5F5F5&fontAlign=50&fontAlignY=55&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=45637B"  />
 </div>
 
 <br>
 
-<h3 align="center">Software Engineering Student • Full-stack Development & Digital Solutions Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Frontend-leaning Developer | Creating intuitive interfaces & exploring the Full-stack ecosystem</h3>
 
 <br>
 
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00DDFF" />
 
 <br>
 
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-- 🎓 Software Engineering student  
-<br>- 💻 Improving skills in JavaScript, TypeScript, Python, and Java  
-<br>- 🎨 UI/UX enthusiast: Figma & Canva  
-<br>- 🧠 Passionate about full-stack development, design systems, and problem-solving  
-<br>- 🌱 Always learning — step by step, project by project  
-<br>- 🤝 Open to collaborations, student projects, and growth opportunities
+- 🎓 Software Engineering student currently in my 3rd semester at UNDB. 
+<br>- 💻 Primarily focused on Frontend development, creating responsive and user-centric web applications.
+<br>- 🎨 UI/UX Enthusiast: Using Figma, Framer, and Canva to bridge the gap between design and implementation.
+<br>- 🛠 Academic experience with Java and Python, focusing on system integration and backend logic.
+<br>- 🌱 Constantly learning and building projects to refine my technical skills and problem-solving abilities.
+<br>- 🤝 Open to collaborations, student projects, and growth opportunities.
+<br>- 🚀 Looking for my first Internship or Junior opportunity in the tech industry.
 </p>
 
 <br>
 
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00DDFF" />
 
 <br>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Main Focus: Frontend & Design</h3>
 
 <br>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-EBEBEB?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://img.shields.io/badge/CSS3-EBEBEB?style=for-the-badge&logo=css&logoColor=1572B6" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-EBEBEB?style=for-the-badge&logo=javascript&logoColor=0F1107" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-EBEBEB?style=for-the-badge&logo=typescript&logoColor=0F1107" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/React-EBEBEB?style=for-the-badge&logo=react&logoColor=0F1107" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Next.js-EBEBEB?style=for-the-badge&logo=nextdotjs&logoColor=0F1107" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Figma-EBEBEB?style=for-the-badge&logo=figma&logoColor=0F1107" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Framer-EBEBEB?style=for-the-badge&logo=framer&logoColor=0055FF" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Canva-EBEBEB?style=for-the-badge&logo=canva&logoColor=0F1107" />
 </div>
 
 <br>
 
-<h3 align="left">Tools & Design</h3>
+<h3 align="left">Academic & Backend Integration</h3>
 
 <br>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Java-45637B?style=for-the-badge&logoColor=white" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://img.shields.io/badge/Python-45637B?style=for-the-badge&logo=python&logoColor=white" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-45637B?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
 </div>
 
 <br>
@@ -68,16 +78,22 @@
 <br>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Git-EBEBEB?style=for-the-badge&logo=git&logoColor=0F1107" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://img.shields.io/badge/GitHub-EBEBEB?style=for-the-badge&logo=github&logoColor=0F1107" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/VS_Code-EBEBEB?style=for-the-badge&logo=vscode&logoColor=0F1107" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-EBEBEB?style=for-the-badge&logo=intellij-idea&logoColor=0F1107" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Antigravity-EBEBEB?style=for-the-badge&logoColor=0F1107" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Docker-EBEBEB?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </div>
 
 <br>
 
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00DDFF" />
 
 <br>
 
@@ -93,7 +109,7 @@
   <br>*WeNove is a marketplace that promotes circular fashion and conscious consumption by connecting consumers, brands, and small entrepreneurs.*</p>
   *Key learning: API integration, responsive design.*
 
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=FFBB1B" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=45637B" />
 
   <br>
 
@@ -103,7 +119,7 @@
   <br>*A simple and responsive user registration project with validation, login, localStorage handling, and user info management.*</p>
   *Key learning: form validation and state management.*
 
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=FFBB1B" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=45637B" />
 
   <br>
 
@@ -112,7 +128,7 @@
   <br>*A console-based Java currency converter using the ExchangeRate API, with multiple currencies, input validation, and error handling.*</p>
   *Key learning: API handling and error management.*
 
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00DDFF" />
 
   <br>
 
@@ -139,7 +155,7 @@
 
 <br>
 
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00A3FF" />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00DDFF" />
 
 <br>
 
@@ -170,5 +186,5 @@
 </table>
 
 <div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&text=%E2%9C%A8%20Thanks%20for%20visiting%20my%20profile!%20Always%20learning,%20always%20improving.%20%E2%9C%A8&fontSize=14&fontColor=FFBB1B&fontAlign=50&fontAlignY=45&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=00A3FF"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&text=%E2%9C%A8%20Thanks%20for%20visiting%20my%20profile!%20Always%20learning,%20always%20improving.%20%E2%9C%A8&fontSize=14&fontColor=F5F5F5&fontAlign=50&fontAlignY=45&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=00DDFF"  />
 </div>
