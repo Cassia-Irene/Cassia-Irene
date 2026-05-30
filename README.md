@@ -49,6 +49,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Next.js-EBEBEB?style=for-the-badge&logo=nextdotjs&logoColor=0F1107" />
   <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwindcss-EBEBEB?style=for-the-badge&logo=tailwindcss&logoColor=0F1107" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Figma-EBEBEB?style=for-the-badge&logo=figma&logoColor=0F1107" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Framer-EBEBEB?style=for-the-badge&logo=framer&logoColor=0055FF" />
@@ -99,7 +101,7 @@
 
 <h2 align="left" style="border-bottom: none;">📌 Featured Projects</h2>
 
-<h4 align="left">Some key projects from my learning journey:</h4>
+<h4 align="left">Selected work from my academic and personal journey:</h4>
 
 <br>
 
