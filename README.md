@@ -95,6 +95,21 @@
 
 <br>
 
+<h3 align="left">Deployment & Infrastructure</h3>
+
+<br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Vercel-45637B?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Render-45637B?style=for-the-badge&logo=render&logoColor=white" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Aiven-45637B?style=for-the-badge&logo=aiven&logoColor=white" />
+  
+</div>
+
+<br>
+
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00DDFF" />
 
 <br>
@@ -187,13 +202,13 @@
     </a>
   </td>
 
-  <td style="border:none; padding:0; margin:0; line-height:0;">
+  <!-- <td style="border:none; padding:0; margin:0; line-height:0;">
     <a href="https://discord.com/users/1326949434851983410" target="_blank" style="text-decoration:none; border:none;">
       <img src="https://skillicons.dev/icons?i=discord" width="36" alt="Discord" style="display:block; border:none; line-height:0;" />
     </a>
-  </td>
+  </td> -->
   </tr>
-</table>
+</table> 
 
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&text=%E2%9C%A8%20Thanks%20for%20visiting%20my%20profile!%20Always%20learning,%20always%20improving.%20%E2%9C%A8&fontSize=14&fontColor=F5F5F5&fontAlign=50&fontAlignY=45&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=00DDFF"  />
