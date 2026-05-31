@@ -105,30 +105,30 @@
 
 <br>
 
-🧶**WeNove – Startup Project (Design de Solução)** <br>
-  <br> 🔗 [GitHub](https://github.com/Cassia-Irene/WeNove) <br>
-  🔗 [Live](https://wenove.vercel.app/)<br>
-  <br>*WeNove is a marketplace that promotes circular fashion and conscious consumption by connecting consumers, brands, and small entrepreneurs.*</p>
-  *Key learning: API integration, responsive design.*
+🚀 **MoodMatrix — AI Sentiment Analysis (Hackathon ONE)** <br>
+  <br> 🔗 [GitHub](https://github.com/Hackaton-ONE/hackathon-Frontend) <br>
+  🔗 [Live Demo](https://mood-matrix-frontend.onrender.com/) <br>
+  <br>*A modern, secure dashboard that transforms Machine Learning data into actionable visual insights. Focused on performance and high-quality UX.*</p>
+  *Key learning: NextAuth integration, Responsive Data Visualization (Recharts), and Next.js App Router.*
 
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=45637B" />
 
   <br>
 
-📝 **User Registration Form – Desafio 2 (Trilhas Inova Maranhão)** <br>
-  <br>🔗 [GitHub](https://github.com/Cassia-Irene/Desafio-2-Trilhas) <br>
-  🔗 [Live](https://desafio-2-trilhas-8f3a.vercel.app/forms.html)<br>
-  <br>*A simple and responsive user registration project with validation, login, localStorage handling, and user info management.*</p>
-  *Key learning: form validation and state management.*
+📊 **AM-Consultoria — Operational Intelligence & Audit System** <br>
+ <br> 🔗 [GitHub](https://github.com/Cassia-Irene/AM-Consultoria.git) <br>
+  <br>*A business management platform with intelligence engines for risk scoring and audit. Features complex UI components like tracking timelines and attention panels.*</p>
+  *Key learning: Full-stack integration (FastAPI + Next.js), Docker Orchestration, and Advanced SQL/PostgreSQL.*
 
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=45637B" />
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=45637B" />
+
+💎 **Nexus US — LLC Formation Platform (No Country Simulation)** <br>
+  <br>🔗 [GitHub](https://github.com/No-Country-simulation/S02-26-Equipe-40-Web-App-Development) <br>
+  🔗 [Live Demo](https://nexus-us-app.vercel.app/) <br>
+  <br>*Premium full-stack e-commerce for global founders. Features a high-conversion Dark Mode interface with Glassmorphism and robust Stripe integration.*</p>
+  *Key learning: Complex animations with Framer, Stripe Payment Flow, and Full-stack collaboration.*
 
   <br>
-
-💱 **Currency Converter – ONE Challenge** <br>
- <br> 🔗 [GitHub](https://github.com/Cassia-Irene/Challenge-conversor-de-moedas) <br>
-  <br>*A console-based Java currency converter using the ExchangeRate API, with multiple currencies, input validation, and error handling.*</p>
-  *Key learning: API handling and error management.*
 
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&color=00DDFF" />
 
@@ -139,12 +139,16 @@
 <br>
 
 <div align="center">
-  <img style="margin-right: 2px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Cassia-Irene&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&order=1" 
+  <!-- Stats Card -->
+  <img 
+    style="margin-right: 2px;" 
+    src="https://raw.githubusercontent.com/Cassia-Irene/Cassia-Irene/stats-output/stats.svg"
     height="160" 
     alt="stats graph" />
  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=Cassia-Irene&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=5&order=3" 
+  <!-- Streak Card -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Cassia-Irene&locale=en&mode=daily&theme=tokyonight&ring=00DDFF&fire=CB0007&currStreakNum=F5F5F5&sideNums=E0E0E0&hide_border=false&border_radius=5&order=3" 
     height="160" 
     alt="streak graph"  />
 </div>
@@ -152,7 +156,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cassia-Irene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Cassia-Irene&layout=compact&langs_count=6&title_color=00DDFF&text_color=F5F5F5&bg_color=0F1107&hide_border=false&v=1" 
+    height="160" 
+    alt="languages graph"  />
 </div>
 
 <br>
