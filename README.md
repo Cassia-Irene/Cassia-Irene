@@ -148,7 +148,7 @@
  &nbsp;
   <!-- Streak Card -->
   <img 
-    src="https://streak-stats.demolab.com?user=Cassia-Irene&locale=en&mode=daily&theme=tokyonight&ring=00DDFF&fire=CB0007&currStreakNum=F5F5F5&sideNums=E0E0E0&hide_border=false&border_radius=5&order=3" 
+    src="https://streak-stats.demolab.com?user=Cassia-Irene&locale=en&mode=daily&theme=react&ring=00DDFF&fire=CB0007&currStreakNum=F5F5F5&currStreakText=F5F5F5&sideNums=E0E0E0&hide_border=false&border_radius=5&order=3" 
     height="160" 
     alt="streak graph"  />
 </div>
@@ -158,7 +158,7 @@
 <div align="center">
   <!-- Top Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Cassia-Irene&layout=compact&langs_count=6&title_color=00DDFF&text_color=F5F5F5&bg_color=0F1107&hide_border=false&v=1" 
+    src="https://raw.githubusercontent.com/Cassia-Irene/Cassia-Irene/languages-output/languages.svg" 
     height="160" 
     alt="languages graph"  />
 </div>
